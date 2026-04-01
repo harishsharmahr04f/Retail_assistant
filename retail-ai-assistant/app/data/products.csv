@@ -1,0 +1,9 @@
+product_id,title,price,sizes_available,is_sale,bestseller_score
+P0001,Basic T-Shirt,137,8|10,False,85
+P0002,Summer Dress,45.0,8|10,True,90
+P0003,Blue Jeans,230,2|8,False,75
+P0015,Leather Jacket,298,14|8,True,95
+P0018,Winter Coat,376,16|8|6,False,60
+P0022,Sun Hat,437,16|OneSize,False,50
+P0064,Comfort Sneakers,205,6|8,True,88
+P0086,Ankle Boots,316,6|16|8,True,80

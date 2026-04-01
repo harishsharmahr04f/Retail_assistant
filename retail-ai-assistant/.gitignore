@@ -1,0 +1,30 @@
+# Environment variables (NEVER push these!)
+.env
+.env.local
+.env.*.local
+retail-ai-assistant/.env
+**/.env
+
+# API keys and secrets
+*.key
+*.pem
+secrets/
+config/secrets.json
+
+# Dependencies
+node_modules/
+__pycache__/
+venv/
+
+# Build outputs
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
